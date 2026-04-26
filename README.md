@@ -1,5 +1,4 @@
 CS 210 Portfolio Submission: Corner Grocer Project
-Project Summary
 
 The Corner Grocer project is a program that reads grocery purchase data from a file and tracks how often each item is purchased. The program allows the user to search for specific items, display all item frequencies, and view a histogram of purchase data. This solves the problem of organizing and analyzing store purchase information in a clear and efficient way.
 
