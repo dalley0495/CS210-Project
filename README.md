@@ -13,7 +13,7 @@ I could improve my code by adding better error handling, such as checking if the
 
 Challenges I Faced and How I Overcame Them
 
-The most challenging part of this project was learning how to use maps in C++ and understanding how to properly read and process data from a file. I overcame this by practicing, reviewing examples, and using resources like ZyBooks, Google, and ChatGPT. These tools helped me better understand how the code works and how to fix errors.
+The most challenging part of this project was learning how to use maps in C++ and understanding how to properly read and process data from a file. I overcame this by practicing, reviewing examples, and using resources like ZyBooks and Google. These tools helped me better understand how the code works and how to fix errors.
 
 Transferable Skills
 
